@@ -1,3 +1,3 @@
-4. This algorithm, depending the range of months and day number, will output whichever allocated astrological sign. 
-5. Using python, we can rename the filename.
-6. This algorithm is used to gather and output the text data from the IMDB website.
+Project 4: Depending on the range of months and day number, this algorithm will output whichever allocated astrological sign. 
+Project 5: Using Python, we can rename the filename.
+Project 6: This algorithm is used to gather and output the text data from the IMDB website.
